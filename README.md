@@ -61,6 +61,15 @@ The main hosted entry points are:
 | Pricing | [pricing](https://openhuman.online/pricing/?utm_source=github&utm_medium=documentation&utm_campaign=openhuman_online_docs&utm_content=readme_links_pricing) |
 | Checkout | [checkout](https://openhuman.online/checkout/?utm_source=github&utm_medium=documentation&utm_campaign=openhuman_online_docs&utm_content=readme_links_checkout) |
 
+## Related Public Projects
+
+Open these only when an OpenHuman memory pilot needs a broader execution or simulation layer:
+
+| Project | Tracked link | Why it helps |
+| --- | --- | --- |
+| MiroFish | [mirofish.work](https://mirofish.work/?utm_source=github&utm_medium=documentation&utm_campaign=openhuman_online_docs&utm_content=related_mirofish) | Useful when curated memory, meeting notes, or research material should become a scenario simulation and structured report. |
+| Ruflo | [ruflo.online](https://ruflo.online/?utm_source=github&utm_medium=documentation&utm_campaign=openhuman_online_docs&utm_content=related_ruflo) | Useful when the same memory layer needs to support multi-agent work planning, MCP tools, and human review loops. |
+
 ## Default Evaluation Path
 
 1. Start with a small memory pilot and a clear owner.

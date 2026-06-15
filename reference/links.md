@@ -9,6 +9,8 @@ Last reviewed: 2026-05-18.
 | Hosted SaaS | [openhuman.online](https://openhuman.online/?utm_source=github&utm_medium=documentation&utm_campaign=openhuman_online_docs&utm_content=reference_home) |
 | Pricing | [pricing](https://openhuman.online/pricing/?utm_source=github&utm_medium=documentation&utm_campaign=openhuman_online_docs&utm_content=reference_pricing) |
 | Checkout | [checkout](https://openhuman.online/checkout/?utm_source=github&utm_medium=documentation&utm_campaign=openhuman_online_docs&utm_content=reference_checkout) |
+| Related: MiroFish | [mirofish.work](https://mirofish.work/?utm_source=github&utm_medium=documentation&utm_campaign=openhuman_online_docs&utm_content=reference_related_mirofish) |
+| Related: Ruflo | [ruflo.online](https://ruflo.online/?utm_source=github&utm_medium=documentation&utm_campaign=openhuman_online_docs&utm_content=reference_related_ruflo) |
 
 ## Freshness Policy
 
